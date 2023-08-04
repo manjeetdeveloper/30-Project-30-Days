@@ -84,7 +84,8 @@
 .button__text{
     position : relative ;
     z-index : 3 ;
-    font-size : 32px ;
+    font-size : 20px ;
+    font-weight: 700;
     letter-spacing : 4px ;
     color : var(--base_color) ;
     transition : all .3s ease ;
